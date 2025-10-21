@@ -1,6 +1,8 @@
 # otomasi-jaringan
 membuat program memonitoring kondisi up/down interface pada devasc
 
+sudo python3 /usr/local/bin/interface_monitor.py (perintah program)
+
 import subprocess
 import time
 from datetime import datetime
