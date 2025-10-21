@@ -1,5 +1,5 @@
 # otomasi-jaringan
-membuat program memonitoring interface pada devasc
+membuat program memonitoring kondisi up/down interface pada devasc
 
 import subprocess
 import time
